@@ -11,7 +11,7 @@ spring:
           name: report
    datasource:
        driver-class-name: com.mysql.cj.jdbc.Driver
-       url: jdbc:mysql://117.78.28.141:3306/PTEST?useUnicode=true&characterEncoding=utf8
+       url: jdbc:mysql://xxxxxxxxxxxxxx/PTEST?useUnicode=true&characterEncoding=utf8
        username: ptest
        password: \&uO1m\$DiX\^Es1
 
