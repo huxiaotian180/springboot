@@ -1,4 +1,4 @@
-package hello;
+package com.course.hello;
 
 import org.springframework.boot.*;
 import org.springframework.boot.autoconfigure.*;

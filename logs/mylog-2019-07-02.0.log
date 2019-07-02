@@ -1,0 +1,119 @@
+[ INFO ] [2019-07-02 09:00:03] com.course.Application [50] - Starting Application on DESKTOP-1QNS1IK with PID 11312 (E:\springboot_web\target\classes started by DELL in E:\springboot_web)
+[ INFO ] [2019-07-02 09:00:03] com.course.Application [646] - No active profile set, falling back to default profiles: default
+[ WARN ] [2019-07-02 09:00:05] org.mybatis.spring.mapper.ClassPathMapperScanner [166] - No MyBatis mapper was found in '[com.course]' package. Please check your configuration.
+[ INFO ] [2019-07-02 09:00:06] org.springframework.boot.web.embedded.tomcat.TomcatWebServer [90] - Tomcat initialized with port(s): 8888 (http)
+[ INFO ] [2019-07-02 09:00:06] org.apache.coyote.http11.Http11NioProtocol [173] - Initializing ProtocolHandler ["http-nio-8888"]
+[ INFO ] [2019-07-02 09:00:06] org.apache.catalina.core.StandardService [173] - Starting service [Tomcat]
+[ INFO ] [2019-07-02 09:00:06] org.apache.catalina.core.StandardEngine [173] - Starting Servlet engine: [Apache Tomcat/9.0.21]
+[ INFO ] [2019-07-02 09:00:06] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [173] - Initializing Spring embedded WebApplicationContext
+[ INFO ] [2019-07-02 09:00:06] org.springframework.web.context.ContextLoader [283] - Root WebApplicationContext: initialization completed in 3110 ms
+[ INFO ] [2019-07-02 09:00:07] org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [171] - Initializing ExecutorService 'applicationTaskExecutor'
+[ INFO ] [2019-07-02 09:00:08] org.springframework.scheduling.concurrent.ThreadPoolTaskScheduler [171] - Initializing ExecutorService 'taskScheduler'
+[ INFO ] [2019-07-02 09:00:08] org.apache.coyote.http11.Http11NioProtocol [173] - Starting ProtocolHandler ["http-nio-8888"]
+[ INFO ] [2019-07-02 09:00:08] org.springframework.boot.web.embedded.tomcat.TomcatWebServer [202] - Tomcat started on port(s): 8888 (http) with context path ''
+[ INFO ] [2019-07-02 09:00:08] com.course.Application [59] - Started Application in 5.537 seconds (JVM running for 7.777)
+[ INFO ] [2019-07-02 09:03:02] com.course.Application [50] - Starting Application on DESKTOP-1QNS1IK with PID 17116 (E:\springboot_web\target\classes started by DELL in E:\springboot_web)
+[ INFO ] [2019-07-02 09:03:02] com.course.Application [646] - No active profile set, falling back to default profiles: default
+[ WARN ] [2019-07-02 09:03:03] org.mybatis.spring.mapper.ClassPathMapperScanner [166] - No MyBatis mapper was found in '[com.course]' package. Please check your configuration.
+[ INFO ] [2019-07-02 09:03:03] org.springframework.boot.web.embedded.tomcat.TomcatWebServer [90] - Tomcat initialized with port(s): 8888 (http)
+[ INFO ] [2019-07-02 09:03:03] org.apache.coyote.http11.Http11NioProtocol [173] - Initializing ProtocolHandler ["http-nio-8888"]
+[ INFO ] [2019-07-02 09:03:03] org.apache.catalina.core.StandardService [173] - Starting service [Tomcat]
+[ INFO ] [2019-07-02 09:03:03] org.apache.catalina.core.StandardEngine [173] - Starting Servlet engine: [Apache Tomcat/9.0.21]
+[ INFO ] [2019-07-02 09:03:03] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [173] - Initializing Spring embedded WebApplicationContext
+[ INFO ] [2019-07-02 09:03:03] org.springframework.web.context.ContextLoader [283] - Root WebApplicationContext: initialization completed in 1155 ms
+[ INFO ] [2019-07-02 09:03:04] org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [171] - Initializing ExecutorService 'applicationTaskExecutor'
+[ INFO ] [2019-07-02 09:03:04] org.apache.coyote.http11.Http11NioProtocol [173] - Starting ProtocolHandler ["http-nio-8888"]
+[ INFO ] [2019-07-02 09:03:04] org.springframework.boot.web.embedded.tomcat.TomcatWebServer [202] - Tomcat started on port(s): 8888 (http) with context path ''
+[ INFO ] [2019-07-02 09:03:04] com.course.Application [59] - Started Application in 2.229 seconds (JVM running for 3.635)
+[ INFO ] [2019-07-02 09:03:23] com.course.Application [50] - Starting Application on DESKTOP-1QNS1IK with PID 14776 (E:\springboot_web\target\classes started by DELL in E:\springboot_web)
+[ INFO ] [2019-07-02 09:03:23] com.course.Application [646] - No active profile set, falling back to default profiles: default
+[ WARN ] [2019-07-02 09:03:23] org.mybatis.spring.mapper.ClassPathMapperScanner [166] - No MyBatis mapper was found in '[com.course]' package. Please check your configuration.
+[ INFO ] [2019-07-02 09:03:24] org.springframework.boot.web.embedded.tomcat.TomcatWebServer [90] - Tomcat initialized with port(s): 8888 (http)
+[ INFO ] [2019-07-02 09:03:24] org.apache.coyote.http11.Http11NioProtocol [173] - Initializing ProtocolHandler ["http-nio-8888"]
+[ INFO ] [2019-07-02 09:03:24] org.apache.catalina.core.StandardService [173] - Starting service [Tomcat]
+[ INFO ] [2019-07-02 09:03:24] org.apache.catalina.core.StandardEngine [173] - Starting Servlet engine: [Apache Tomcat/9.0.21]
+[ INFO ] [2019-07-02 09:03:24] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [173] - Initializing Spring embedded WebApplicationContext
+[ INFO ] [2019-07-02 09:03:24] org.springframework.web.context.ContextLoader [283] - Root WebApplicationContext: initialization completed in 1274 ms
+[ INFO ] [2019-07-02 09:03:24] org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [171] - Initializing ExecutorService 'applicationTaskExecutor'
+[ INFO ] [2019-07-02 09:03:24] org.springframework.scheduling.concurrent.ThreadPoolTaskScheduler [171] - Initializing ExecutorService 'taskScheduler'
+[ INFO ] [2019-07-02 09:03:24] org.apache.coyote.http11.Http11NioProtocol [173] - Starting ProtocolHandler ["http-nio-8888"]
+[ INFO ] [2019-07-02 09:03:24] org.springframework.boot.web.embedded.tomcat.TomcatWebServer [202] - Tomcat started on port(s): 8888 (http) with context path ''
+[ INFO ] [2019-07-02 09:03:24] com.course.Application [59] - Started Application in 2.268 seconds (JVM running for 3.337)
+[ INFO ] [2019-07-02 09:05:27] com.course.Application [50] - Starting Application on DESKTOP-1QNS1IK with PID 8724 (E:\springboot_web\target\classes started by DELL in E:\springboot_web)
+[ INFO ] [2019-07-02 09:05:27] com.course.Application [646] - No active profile set, falling back to default profiles: default
+[ WARN ] [2019-07-02 09:05:28] org.mybatis.spring.mapper.ClassPathMapperScanner [166] - No MyBatis mapper was found in '[com.course]' package. Please check your configuration.
+[ INFO ] [2019-07-02 09:05:28] org.springframework.boot.web.embedded.tomcat.TomcatWebServer [90] - Tomcat initialized with port(s): 8888 (http)
+[ INFO ] [2019-07-02 09:05:28] org.apache.coyote.http11.Http11NioProtocol [173] - Initializing ProtocolHandler ["http-nio-8888"]
+[ INFO ] [2019-07-02 09:05:28] org.apache.catalina.core.StandardService [173] - Starting service [Tomcat]
+[ INFO ] [2019-07-02 09:05:28] org.apache.catalina.core.StandardEngine [173] - Starting Servlet engine: [Apache Tomcat/9.0.21]
+[ INFO ] [2019-07-02 09:05:29] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [173] - Initializing Spring embedded WebApplicationContext
+[ INFO ] [2019-07-02 09:05:29] org.springframework.web.context.ContextLoader [283] - Root WebApplicationContext: initialization completed in 1078 ms
+[ INFO ] [2019-07-02 09:05:29] org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [171] - Initializing ExecutorService 'applicationTaskExecutor'
+[ INFO ] [2019-07-02 09:05:29] org.springframework.scheduling.concurrent.ThreadPoolTaskScheduler [171] - Initializing ExecutorService 'taskScheduler'
+[ INFO ] [2019-07-02 09:05:29] org.apache.coyote.http11.Http11NioProtocol [173] - Starting ProtocolHandler ["http-nio-8888"]
+[ INFO ] [2019-07-02 09:05:29] org.springframework.boot.web.embedded.tomcat.TomcatWebServer [202] - Tomcat started on port(s): 8888 (http) with context path ''
+[ INFO ] [2019-07-02 09:05:29] com.course.Application [59] - Started Application in 2.041 seconds (JVM running for 3.073)
+[ INFO ] [2019-07-02 09:05:45] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[ INFO ] [2019-07-02 09:05:45] org.springframework.web.servlet.DispatcherServlet [524] - Initializing Servlet 'dispatcherServlet'
+[ INFO ] [2019-07-02 09:05:45] org.springframework.web.servlet.DispatcherServlet [546] - Completed initialization in 5 ms
+[ INFO ] [2019-07-02 09:07:19] com.course.Application [50] - Starting Application on DESKTOP-1QNS1IK with PID 13384 (E:\springboot_web\target\classes started by DELL in E:\springboot_web)
+[ INFO ] [2019-07-02 09:07:19] com.course.Application [646] - No active profile set, falling back to default profiles: default
+[ WARN ] [2019-07-02 09:07:20] org.mybatis.spring.mapper.ClassPathMapperScanner [166] - No MyBatis mapper was found in '[com.course.hello, com.course]' package. Please check your configuration.
+[ INFO ] [2019-07-02 09:07:20] org.springframework.boot.web.embedded.tomcat.TomcatWebServer [90] - Tomcat initialized with port(s): 8888 (http)
+[ INFO ] [2019-07-02 09:07:20] org.apache.coyote.http11.Http11NioProtocol [173] - Initializing ProtocolHandler ["http-nio-8888"]
+[ INFO ] [2019-07-02 09:07:20] org.apache.catalina.core.StandardService [173] - Starting service [Tomcat]
+[ INFO ] [2019-07-02 09:07:20] org.apache.catalina.core.StandardEngine [173] - Starting Servlet engine: [Apache Tomcat/9.0.21]
+[ INFO ] [2019-07-02 09:07:20] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [173] - Initializing Spring embedded WebApplicationContext
+[ INFO ] [2019-07-02 09:07:20] org.springframework.web.context.ContextLoader [283] - Root WebApplicationContext: initialization completed in 1114 ms
+[ INFO ] [2019-07-02 09:07:21] org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [171] - Initializing ExecutorService 'applicationTaskExecutor'
+[ INFO ] [2019-07-02 09:07:21] org.springframework.scheduling.concurrent.ThreadPoolTaskScheduler [171] - Initializing ExecutorService 'taskScheduler'
+[ INFO ] [2019-07-02 09:07:21] org.apache.coyote.http11.Http11NioProtocol [173] - Starting ProtocolHandler ["http-nio-8888"]
+[ INFO ] [2019-07-02 09:07:21] org.springframework.boot.web.embedded.tomcat.TomcatWebServer [202] - Tomcat started on port(s): 8888 (http) with context path ''
+[ INFO ] [2019-07-02 09:07:21] com.course.Application [59] - Started Application in 2.12 seconds (JVM running for 3.196)
+[ INFO ] [2019-07-02 09:07:35] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[ INFO ] [2019-07-02 09:07:35] org.springframework.web.servlet.DispatcherServlet [524] - Initializing Servlet 'dispatcherServlet'
+[ INFO ] [2019-07-02 09:07:35] org.springframework.web.servlet.DispatcherServlet [546] - Completed initialization in 4 ms
+[ INFO ] [2019-07-02 09:12:24] com.course.Application [50] - Starting Application on DESKTOP-1QNS1IK with PID 7576 (E:\springboot_web\target\classes started by DELL in E:\springboot_web)
+[ INFO ] [2019-07-02 09:12:24] com.course.Application [646] - No active profile set, falling back to default profiles: default
+[ WARN ] [2019-07-02 09:12:25] org.mybatis.spring.mapper.ClassPathMapperScanner [166] - No MyBatis mapper was found in '[com.course.hello, com.course]' package. Please check your configuration.
+[ INFO ] [2019-07-02 09:12:25] org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker [330] - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$9233c2e1] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+[ INFO ] [2019-07-02 09:12:26] org.springframework.boot.web.embedded.tomcat.TomcatWebServer [90] - Tomcat initialized with port(s): 8888 (http)
+[ INFO ] [2019-07-02 09:12:26] org.apache.coyote.http11.Http11NioProtocol [173] - Initializing ProtocolHandler ["http-nio-8888"]
+[ INFO ] [2019-07-02 09:12:26] org.apache.catalina.core.StandardService [173] - Starting service [Tomcat]
+[ INFO ] [2019-07-02 09:12:26] org.apache.catalina.core.StandardEngine [173] - Starting Servlet engine: [Apache Tomcat/9.0.21]
+[ INFO ] [2019-07-02 09:12:26] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [173] - Initializing Spring embedded WebApplicationContext
+[ INFO ] [2019-07-02 09:12:26] org.springframework.web.context.ContextLoader [283] - Root WebApplicationContext: initialization completed in 1286 ms
+[ INFO ] [2019-07-02 09:12:26] org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [171] - Initializing ExecutorService 'applicationTaskExecutor'
+[ INFO ] [2019-07-02 09:12:26] org.springframework.scheduling.concurrent.ThreadPoolTaskScheduler [171] - Initializing ExecutorService 'taskScheduler'
+[ INFO ] [2019-07-02 09:12:26] springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [120] - Context refreshed
+[ INFO ] [2019-07-02 09:12:27] springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [123] - Found 1 custom documentation plugin(s)
+[ INFO ] [2019-07-02 09:12:27] springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [41] - Scanning for api listing references
+[ INFO ] [2019-07-02 09:12:27] org.apache.coyote.http11.Http11NioProtocol [173] - Starting ProtocolHandler ["http-nio-8888"]
+[ INFO ] [2019-07-02 09:12:27] org.springframework.boot.web.embedded.tomcat.TomcatWebServer [202] - Tomcat started on port(s): 8888 (http) with context path ''
+[ INFO ] [2019-07-02 09:12:27] com.course.Application [59] - Started Application in 2.692 seconds (JVM running for 3.729)
+[ INFO ] [2019-07-02 09:12:39] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[ INFO ] [2019-07-02 09:12:39] org.springframework.web.servlet.DispatcherServlet [524] - Initializing Servlet 'dispatcherServlet'
+[ INFO ] [2019-07-02 09:12:39] org.springframework.web.servlet.DispatcherServlet [546] - Completed initialization in 5 ms
+[ INFO ] [2019-07-02 09:12:57] com.zaxxer.hikari.HikariDataSource [110] - HikariPool-1 - Starting...
+[ INFO ] [2019-07-02 09:12:59] com.zaxxer.hikari.HikariDataSource [123] - HikariPool-1 - Start completed.
+[ INFO ] [2019-07-02 09:18:16] com.course.Application [50] - Starting Application on DESKTOP-1QNS1IK with PID 3400 (E:\springboot_web\target\classes started by DELL in E:\springboot_web)
+[ INFO ] [2019-07-02 09:18:16] com.course.Application [646] - No active profile set, falling back to default profiles: default
+[ WARN ] [2019-07-02 09:18:17] org.mybatis.spring.mapper.ClassPathMapperScanner [166] - No MyBatis mapper was found in '[com.course.hello, com.course]' package. Please check your configuration.
+[ INFO ] [2019-07-02 09:18:17] org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker [330] - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$923686d2] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+[ INFO ] [2019-07-02 09:18:17] org.springframework.boot.web.embedded.tomcat.TomcatWebServer [90] - Tomcat initialized with port(s): 8888 (http)
+[ INFO ] [2019-07-02 09:18:17] org.apache.coyote.http11.Http11NioProtocol [173] - Initializing ProtocolHandler ["http-nio-8888"]
+[ INFO ] [2019-07-02 09:18:17] org.apache.catalina.core.StandardService [173] - Starting service [Tomcat]
+[ INFO ] [2019-07-02 09:18:17] org.apache.catalina.core.StandardEngine [173] - Starting Servlet engine: [Apache Tomcat/9.0.21]
+[ INFO ] [2019-07-02 09:18:18] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [173] - Initializing Spring embedded WebApplicationContext
+[ INFO ] [2019-07-02 09:18:18] org.springframework.web.context.ContextLoader [283] - Root WebApplicationContext: initialization completed in 1390 ms
+[ INFO ] [2019-07-02 09:18:18] org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [171] - Initializing ExecutorService 'applicationTaskExecutor'
+[ INFO ] [2019-07-02 09:18:18] org.springframework.scheduling.concurrent.ThreadPoolTaskScheduler [171] - Initializing ExecutorService 'taskScheduler'
+[ INFO ] [2019-07-02 09:18:18] springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [120] - Context refreshed
+[ INFO ] [2019-07-02 09:18:18] springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [123] - Found 1 custom documentation plugin(s)
+[ INFO ] [2019-07-02 09:18:18] springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [41] - Scanning for api listing references
+[ INFO ] [2019-07-02 09:18:18] org.apache.coyote.http11.Http11NioProtocol [173] - Starting ProtocolHandler ["http-nio-8888"]
+[ INFO ] [2019-07-02 09:18:18] org.springframework.boot.web.embedded.tomcat.TomcatWebServer [202] - Tomcat started on port(s): 8888 (http) with context path ''
+[ INFO ] [2019-07-02 09:18:19] com.course.Application [59] - Started Application in 2.858 seconds (JVM running for 3.893)
+[ INFO ] [2019-07-02 09:18:21] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[ INFO ] [2019-07-02 09:18:21] org.springframework.web.servlet.DispatcherServlet [524] - Initializing Servlet 'dispatcherServlet'
+[ INFO ] [2019-07-02 09:18:21] org.springframework.web.servlet.DispatcherServlet [546] - Completed initialization in 6 ms

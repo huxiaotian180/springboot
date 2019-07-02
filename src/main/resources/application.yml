@@ -1,0 +1,21 @@
+server:
+   port: 8888
+
+#logging:
+#    path: logs
+#    file: mylog.log
+
+
+spring:
+   application:
+          name: report
+   datasource:
+       driver-class-name: com.mysql.cj.jdbc.Driver
+       url: jdbc:mysql://117.78.28.141:3306/PTEST?useUnicode=true&characterEncoding=utf8
+       username: ptest
+       password: \&uO1m\$DiX\^Es1
+
+mybatis:
+    type-aliases-package: com.course.model
+    mapper-locations:
+       - mapper/*
