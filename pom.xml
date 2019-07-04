@@ -82,7 +82,7 @@
     </plugins>
   </build>
   
- ##增加打包插件
+ ##增加打包插件....
   
   <build>
     <plugins>
